@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"jacamo.infra"},{"l":"jacamo.platform"},{"l":"jacamo.project"},{"l":"jacamo.util"}]
